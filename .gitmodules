@@ -1,0 +1,6 @@
+[submodule "themes/grayscale"]
+	path = themes/grayscale
+	url = git@github.com:StartBootstrap/startbootstrap-grayscale.git
+[submodule "themes/hugograyscale"]
+	path = themes/hugograyscale
+	url = git@github.com:runningstream/hugograyscale.git
