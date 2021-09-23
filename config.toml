@@ -1,13 +1,13 @@
-baseURL = "http://example.com/"
-languageCode = "en-us"
-title = "Hugo Grayscale Theme"
+baseURL = "https://drehwurm.band/"
+languageCode = "de-de"
+title = "Drehwurm"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
+    description = "Die Webseite für die Balfolk Band Drehwurm"
 
 [Author]
     name = "Drehwurm"
