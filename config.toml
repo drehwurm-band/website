@@ -1,14 +1,14 @@
 baseURL = "https://drehwurm.band/"
 languageCode = "de-de"
 title = "Drehwurm"
-theme = "hugograyscale"
+theme = "hugo-scroll"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "Die Webseite für die Balfolk Band Drehwurm"
-
+    description = "Eine Balfolk Band aus Drehsden"
+    favicon = "img/favicon.jpg"
 [Author]
     name = "Drehwurm"
     email = "info@drehwurm.band"

@@ -1,0 +1,25 @@
+/* .post-holder.odd {
+  background: red;
+} */
+
+.aboutperson img {
+  padding-top: 3rem;
+}
+
+pre {
+  font-family: "Roboto Slab", serif;
+  background: none;
+  border: 1px solid #b80135;
+}
+
+code {
+  font-family: "Roboto Slab", serif;
+}
+
+.odd pre {
+ border: 1px solid #f2efe8;
+}
+
+.odd pre code {
+  color: white;
+}
