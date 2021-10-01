@@ -2,18 +2,62 @@
   background: red;
 } */
 
+.aboutperson {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.odd .aboutperson {
+  flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 650px) {
+  .aboutperson {
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+  }
+}
+
+.aboutperson .column {
+  padding: 1rem 1rem 1rem 1rem;
+  display:flex;
+  justify-content: center;
+}
+
+.aboutperson .img-wrapper {
+  flex: 38.2%;
+}
+
+.aboutperson .poem-wrapper {
+  flex: 61.8%;
+}
+
 .aboutperson img {
-  padding-top: 3rem;
+  border-radius: 50%;
+  max-width: 20rem;
+  object-fit: cover
 }
 
 pre {
   font-family: "Roboto Slab", serif;
   background: none;
   border: 1px solid #b80135;
+  border-radius: 1rem;
+  margin: 0;
 }
 
-code {
-  font-family: "Roboto Slab", serif;
+@media screen and (min-width: 650px) {
+  .aboutperson pre {
+    padding-top: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 1120px) {
+  .aboutperson pre {
+    padding-top: 1.5rem;
+  }
 }
 
 .odd pre {

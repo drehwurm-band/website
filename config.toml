@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Provide some metadata for search and indexing services
     description = "Eine Balfolk Band aus Drehsden"
     favicon = "img/favicon.jpg"
+    copyright = "[Impressum](/impressum)"
 [Author]
     name = "Drehwurm"
     email = "info@drehwurm.band"

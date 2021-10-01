@@ -1,5 +1,9 @@
 <!-- aboutperson html -->
-<span class="aboutperson">
-  <img src="img/{{ .Get 0 }}.jpg" alt="{{ .Get 0 }}" />
-  <pre><code>{{ .Inner }}</code></pre>
-</span>
+<div class="aboutperson">
+  <div class="column img-wrapper">
+    <img src="img/{{ .Get 0 }}.jpg" alt="{{ .Get 0 }}" />
+  </div>
+  <div class="column poem-wrapper">
+    <pre>{{ .Inner }}</pre>
+  </div>
+</div>
