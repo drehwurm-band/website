@@ -1,7 +1,7 @@
 baseURL = "https://drehwurm.band/"
 languageCode = "de-de"
 title = "Drehwurm"
-theme = "hugo-scroll"
+theme = ["hugo-scroll", "hugo-shortcode-gallery"]
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
