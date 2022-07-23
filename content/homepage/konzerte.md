@@ -6,7 +6,7 @@ header_menu: true
 
 *Haben wir Konzerte?*
 
-![Hochzeit](img/flugzeug.jpg)
+![Hochzeit](img/tanzen.jpg)
 
 Jaaaaa! So ein paar zumindest. Aber wir hätten gerne mehr. Ladet uns ein!
 
