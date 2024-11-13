@@ -8,8 +8,11 @@ header_menu: true
 
 ![Hochzeit](img/tanzen.jpg)
 
-Jaaaaa! So ein paar zumindest. Aber wir hätten gerne mehr. Ladet uns ein!
+Nix jeplant. Aber wir hätten gerne welche. Ladet uns ein! 
 
+* **12.10.2024** [Hohnstein](https://www.folkfest-hohnstein.de/)
+* **16.08.2024** Löbau, kleiner Tanzabend
+* **29.06.2024** Dresden, privater Geburtstag
 * **17.11.2023** [Berlin](https://spreefolk.de/events/wabe2311)
 * **18.11.2023** [Leipzig](https://tanzhausfolk.de/18-11-2023-drehwurm-de/)
 * **07.10.2023** [Hohnstein](https://www.folkfest-hohnstein.de/)
